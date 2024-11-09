@@ -48,19 +48,22 @@ body{
     background-color: var(--yellow);
     border-radius: 4px;
     padding: 4px 12px;
-    font-family: "Figtree Extra Bold";
+    font-family: "Figtree";
+    font-weight: bold;
     width: 88px;
     color: var(--gray-950);
 }
 
 .card-date{
-    font-family: "Figtree Semi Bold";
+    font-family: "Figtree";
+    font-weight: bold;
     color: var(--gray-950);
     font-size: 14px;
 }
 
 h1{
-    font-family: "Figtree Extra Bold";
+    font-family: "Figtree";
+    font-weight: 800;
     font-size: 24px;
     cursor: pointer;
     color: var(--gray-950);
@@ -71,7 +74,8 @@ h1:hover{
 }
 
 .card-para{
-    font-family: "Figtree Semi Bold";
+    font-family: "Figtree";
+    font-weight: 600;
     font-size: 16px;
     color: var(--gray-500);
 }
@@ -82,7 +86,8 @@ h1:hover{
 }
 
 .author > p{
-    font-family: "Figtree Extra Bold";
+    font-family: "Figtree";
+    font-weight: bold;
 }
 
 .author{
@@ -94,5 +99,6 @@ h1:hover{
 
 .attribution{
     margin-top: 50px;
-    font-family: "Figtree Semi Bold";
+    font-family: "Figtree";
+    font-weight: bold;
 }
